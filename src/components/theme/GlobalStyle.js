@@ -23,7 +23,7 @@ html {
   
 body {
     font-size: 1.6rem;
-    font-family: 'Lato, Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 `;
